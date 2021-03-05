@@ -1,0 +1,160 @@
+.wrapper{
+    margin: auto;
+    width: 95%;
+}
+
+.header{
+    background-color: #F1F1F1;
+    height: 65px;
+    padding: 10px 10px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 98.%;
+}
+
+.header h1{
+    font-family:fantasy;
+}
+
+.header h2{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.main{
+    background-color: #2B1D23;
+    padding-bottom: 15px;
+    width: 95%;
+    margin: auto;
+}
+
+.maintop{
+    margin-bottom: 15px;
+}
+
+.maintopleft{
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.maintopleft img{
+    border: 5px solid #AEAEAE;
+    display: inline-block;
+    width: 590px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.maintopright{
+    display: inline-block;
+    width: 587px;
+    height: 398px;
+    vertical-align: top;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    background-color: #E8DEE7;
+}
+
+.maintopright h3{
+    background-color: #7A7885;
+    height: 45px;
+    padding-top: 20px;
+    margin-top: 0px;
+    padding-left: 10px;
+    color: whitesmoke;
+}
+.maintopright p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.mainbottomleft{
+    display: inline-block;
+    vertical-align: top;
+    width: 390px;
+    background-color: #E6DCE6;
+    margin-left: 15px;
+}
+
+.mainbottomleftheader{
+    min-height: 450px;
+}
+
+.mainbottomleftheader h3{
+    background-color:#7A7885;
+    height: 45px;
+    margin-top: 0px;
+    padding-left: 10px;
+    padding-top: 15px;
+    margin-bottom: 0px;
+    color: whitesmoke;
+}
+
+.mainbottomleftheader img{
+    width: 390px;
+}
+
+.mainbottomleft p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.mainbottomleft h4{
+    background-color:#7A7885;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 10px;
+    height: 42px;
+    padding-top: 15px;
+    color: whitesmoke;
+    vertical-align: top;
+}
+
+.mainbottomleftimage img{
+    height: 40px;
+    padding: 10px 10px 10px 10px;
+}
+
+.mainbottomleft button{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: darkgreen;
+    color: whitesmoke;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    align-items: center;
+    margin: 10px 10px 10px 150px;
+    justify-content: center;
+    
+    }
+
+    .footer{
+        background-color: #F1F1F1;
+        height: 80px;
+        align-items: center;
+        text-align: center;
+        padding: 10px 10px;
+        width: 94%;
+        margin: auto;
+    }
+
+    .footerbottom img{
+        height: 20px;
+    }
+
+    .verticalLine{
+    border-left: 2px solid;
+    height: 12px;
+    display:inline;
+
+    }
+
+    .footertop p{
+        display: inline;
+    }
+
+.footerbottom a{
+    color: black;
+}
